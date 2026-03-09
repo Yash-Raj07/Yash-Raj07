@@ -31,7 +31,7 @@
 
   ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me!
 <p align="left">
 <a href="https://linkedin.com/in/yash raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash raj" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_yash__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_yash__7" height="30" width="40" /></a>
@@ -57,6 +57,41 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-raj07&show_icons=true&locale=en" alt="yash-raj07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-raj07&" alt="yash-raj07" /></p> -->
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Raj07&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yash-Raj07&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-Raj07&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj07&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📌 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Raj07&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Raj07&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Raj07&theme=radical" />
+</p>
+
+
+
 
 ---
 
